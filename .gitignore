@@ -1,0 +1,10 @@
+# backup files
+*~
+# maven build
+target
+# eclise project files
+.classpath
+.project
+.settings
+# KDE folder files
+.directory
